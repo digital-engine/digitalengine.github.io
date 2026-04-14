@@ -9,4 +9,4 @@ We build with:
 
 ### Get in touch
 
-Not taking new clients at the moment. For other inquiries email contact {AT} blockrepublic.io
+Not taking new clients at the moment. For other inquiries email contact {AT} digitalengine.io
